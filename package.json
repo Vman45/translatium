@@ -54,7 +54,7 @@
     "fs-extra": "8.1.0",
     "glob": "7.1.6",
     "mocha": "6.2.2",
-    "node-fetch": "2.6.0",
+    "node-fetch": "2.6.1",
     "pouchdb-browser": "7.1.1",
     "prop-types": "15.7.2",
     "react": "16.12.0",
